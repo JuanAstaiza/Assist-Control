@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1/12/2016, 11:12:03 AM
+    Author     : galo
+*/
+
+body {
+    background-image: url(../imagenes/login/fondo.png);
+}
+
+h3 {
+  width: 310px;
+  height: 50px;
+  background: #2874a6;
+  padding: 35px 20px 15px 20px;
+  color: white;
+  border-radius: 10px 10px 0 0;
+  text-align: center;
+  font-family: Arial;
+  clear: both;
+  margin-bottom: 0;
+  box-shadow: 0px 0px 10px rgba(51, 51, 0, 0.7);
+}
+
+form {
+    background: white;
+    width: 350px;
+    height: 280px;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0px 0px 10px rgba(0, 51, 51, 0.7);
+}
+
+form table {
+    font-family: Arial;
+    padding-top: 50px;
+}
+
+#boton {
+  color: white;
+  background: #264C7B;
+  font-weight: 400;
+  border-radius: 6px;
+  color: white;
+  width: 65px;
+  height: 35px;
+  font-family: Arial;
+  font-size: 17px;
+  margin-top: 25px;
+  box-shadow: 0px 0px 10px rgba(51, 51, 51, 0.4);
+}
+
+form table input {
+    width: 200px;
+    height: 18px;
+    padding: 2px 5px 2px 5px;
+}
+
+#contenedor {
+    position: relative;
+    top: 150px;
+    width: 1000px;
+    height: 420px;
+}
+
+#escudo {
+    position: absolute;
+    left: 16%;
+    top: 15%;
+}
+
+#logo{
+    position: absolute;
+    left: 69%;
+    top: 15%;
+}
